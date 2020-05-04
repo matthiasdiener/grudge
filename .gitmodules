@@ -1,0 +1,18 @@
+[submodule "dagrt"]
+	path = dagrt
+	url = https://github.com/inducer/dagrt
+[submodule "leap"]
+	path = leap
+	url = https://github.com/inducer/leap
+[submodule "loopy"]
+	path = loopy
+	url = https://github.com/inducer/loopy
+[submodule "modepy"]
+	path = modepy
+	url = https://github.com/inducer/modepy
+[submodule "meshmode"]
+	path = meshmode
+	url = https://github.com/inducer/meshmode
+[submodule "pyopencl"]
+	path = pyopencl
+	url = https://github.com/inducer/pyopencl
